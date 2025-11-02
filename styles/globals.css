@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom global styles */
+:root {
+  --color-teal: #2AC5A3;
+  --color-charcoal: #1E1E2A;
+  --color-offwhite: #F8F9FB;
+  --color-yellow: #FFD66B;
+}
+
+body {
+  @apply bg-[var(--color-offwhite)] text-[var(--color-charcoal)];
+}
