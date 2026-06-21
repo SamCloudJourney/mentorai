@@ -188,6 +188,36 @@ Same story as gold/semis/Japan — the sector **broadly re-rated**; almost nothi
 
 ---
 
+---
+
+# 🔄 WAVE 4 — Cycle-Lens Deep Dives + Cyclical-Trough Expansion (appended 2026-06-21)
+
+*Refined mandate: not just 52-week lows, but **cyclical lows for the business type** — distinguishing genuine cyclical troughs from secular decline. Partially completed before the platform session/rate-limit was hit; remainder queued for when it resets.*
+
+## Deep-DD scorecard on the Top 12 (with explicit cycle read)
+
+| Name | Conv. | Cycle read | Verdict |
+|------|:----:|-----------|---------|
+| **WBD** | 3.5/5 | n/a (merger-arb) | ~18% spread / ~37–60% annualized on DOJ-cleared $31 cash deal; ticking fee + $7B reverse break fee = **paid-to-wait, ~1:1 protected**. Hinges on FCC foreign-ownership ruling + state-AG risk. |
+| **BLDR** | 3.5/5 | **TROUGH** | Housing starts lowest since 2020 (rate-gated, demand intact = cyclical *not* secular); huge latent operating leverage. **But** cheap only on *mid-cycle* EBITDA (≈10x on trough = above its median), and **net leverage 3.2x & rising w/ debt-funded buybacks** is the real risk. Lumber is *inflating* (tariffs), not deflating. |
+| **WTW** | 3.5/5 | P&C pricing just past **peak** | AI "insurance-app" scare targets *personal* lines WTW barely touches (it's commercial + advisory); fell hardest as the perceived-weakest big-3 broker = mispricing. Legit concern is **decelerating organic (3%) into a softening market**, not AI. |
+| **BRO** | ~~4/5~~ → **3/5** | P&C pricing softening | ⬇️ Revised down. The AI fear *is* overdone for BRO's commercial/specialty book — but the real problem is **idiosyncratic: flat 0% organic growth + $9.8B Accession integration risk.** Down ~43% in a year; multiple de-rated from ~24.5x to ~15x fwd and the **premium-to-peers fully *inverted*** (now below MMC/AON). All 2026 analyst actions negative-to-neutral; consensus Hold, ~$73 PT. Cheaper & more AI-defended than my first pass, but the organic stall mirrors WTW → 3/5, "verify organic inflects." |
+| TEAM·MKC·STRT·CHWY | (wave 2) | — | 3.5 / 3.5 / 4 / (done earlier) |
+| **ZS·MBG·MHK·CIA·AVIR·BLMN** | *pending* | — | Throttled out — re-queued for limit reset. |
+
+## Cyclical-expansion early reads (the lens working as intended)
+
+The cycle filter is doing its job — separating *true* troughs from look-alikes:
+
+- 🎨 **SHW (Sherwin-Williams)** → **REJECT as deep value.** A *secular compounder at a full/premium valuation* (~22x EV/EBITDA ≈ its own median, **2–3x richer than peers**), not a trough — earnings are at records even with volumes down. Cheaper coatings exposure if wanted: **PPG (~11x EV/EBITDA)**, **Axalta (~7.6x, being acquired by AkzoNobel)**.
+- 🧪 **IFF (Intl Flavors & Fragrances)** → **special-situation, not a cyclical trough.** Consumer-staples ingredients; the destock already ended (Q1 +3% volume-led). It's a **deleveraging/simplification turnaround** — IG restored (Fitch BBB), leverage cut ~4x→2.5x, **$4.3B Food Ingredients sale to CVC** funds more paydown. ~12–14x (mid-cycle, discount to Givaudan/Symrise) but already +30% off lows. *Low-Mod trap; quality-at-a-discount.*
+- 🔬 **AVTR (Avantor)** → **deep-value price, but a CONTAMINATED trough → HIGH trap risk.** ~78% off high, ~1.1x book, ~9.8x EBITDA looks like a trough — but it's still guiding **negative organic + falling EPS in 2026**, with credible **structural share loss to Thermo Fisher** layered on the bioprocessing down-cycle, spec-grade leverage (3.3x, BB+), and a CFO departing mid-turnaround. "Prove-it," not a clean cyclical V.
+
+## ⛔ Status note
+Hit the platform **session/rate limit (resets ~12:40pm UTC)** mid-Wave-4. Completed: WBD/BLDR/WTW deep dives + a BRO synthesis (from sub-agents) + SHW/IFF/AVTR cyclical reads. **Queued for reset:** ZS, MBG, MHK, CIA, AVIR, BLMN deep dives + ~45 remaining cyclical-trough desks (trucking, autos parts, lithium, refiners, airlines, paper, machinery, rail, steel, aluminum, oil-services, midstream, coal, homebuilders, lodging, cruise, gaming, ad-agencies, asset-managers, capital-markets, networking, components, semicap, distribution, appliances, RV/leisure…).
+
+---
+
 ## ⚖️ Disclaimer
 
 This document is AI-generated research compiled by automated agents using public web sources, for **informational and educational purposes only**. It is **not investment advice**, not a recommendation to buy or sell any security, and not a solicitation. The agents flagged several **live-price conflicts and stale-data risks** (notably NRG and BSX), and micro-caps (STRT, NNDM) are thinly verified. Prices and metrics are approximate and may already be out of date. **Always independently verify current prices, the 52-week range, and the latest filings**, size positions for the trap-risk noted, do your own due diligence, and consider consulting a licensed financial advisor. Past performance and screening signals do not guarantee future results.
