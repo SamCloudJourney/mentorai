@@ -142,6 +142,52 @@ The fleet didn't just find cheap stocks — it *rejected* dozens that looked che
 
 ---
 
+---
+
+# 🌐 WAVE 3 — Sub-Sector Discovery Sweep (appended 2026-06-21)
+
+*12 finer-grained desks (the ones throttled in Wave 2, re-run paced). Each told to avoid all ~72 names already surfaced. Net: ~25 brand-new candidates, plus three honest "already-arbitraged-away" sweeps.*
+
+## Wave-3 new gems — the keepers (4/5 conviction)
+
+| Ticker | Company (desk) | ~Price | Off high | The hook | Conv. |
+|--------|----------------|--------|----------|----------|-------|
+| **ZS** | Zscaler (cyber) | ~$125 | –63% | Net cash ~$1.66B, ~28% FCF margin, ~5x sales (–64% vs peers) on a sandbagged decel guide | 4/5 |
+| **AVIR** | Atea Pharma (biotech) | ~$3.50 | –46% | **Near-zero EV (~$24M)** vs ~$256M cash, imminent mid-2026 Phase-3 HCV readout | 4/5 |
+| **SWKS** | Skyworks (semis) | ~$72 | –20% | RF cash-cow at the low, ~12% FCF yield + 4% div, **Qorvo merger**; weakness is idiosyncratic (Apple), not cyclical | 4/5 |
+| **CIA** | Champion Iron (CA/AU) | ~A$4.4 | –35% | Genuine 52w low, low-cost high-grade iron ore, **Nippon Steel-backed** growth project | 4/5 |
+| **MBG** | Mercedes-Benz (Europe) | ~€45 | –28% | Cheapest quality OEM, **~9x P/E + 7%+ yield**, margin trough 2026 | 4/5 |
+| **DSV** | DSV A/S (Europe logistics) | DKK | lower-½ | Best-in-class freight consolidator on sale, DB Schenker synergy story | 4/5 |
+| **BLMN** | Bloomin' Brands (restaurants) | ~$8 | –25% | **Starboard ~10% + ex-Darden COO** turnaround, ~6x fwd P/E, FCF-positive | 4/5 |
+| **MHK** | Mohawk (building prod) | ~$112 | –31% | ~0.8x book, ~10% FCF yield, clean balance sheet, max R&R/rate-cut leverage | 4/5 |
+| **BLDR** | Builders FirstSource (bldg) | ~$76 | –48% | #1 lumber distributor, ~10% FCF yield, $500M buyback at the trough | 4/5 |
+| **BRO** | Brown & Brown (insurance) | ~$59 | –47% | Capital-light broker near its low, ~15x, hit by an **OpenAI "insurance-app" AI scare** | 4/5 |
+| **WTW** | Willis Towers Watson (insurance) | ~$255 | –28% | Cheapest big-3 broker (~13x), same AI-scare repricing, margin program + buybacks | 4/5 |
+
+**Strong 3.5/5 runners-up:** `S` SentinelOne (cyber, net cash + Purple AI) · `TOU` Tourmaline (best balance sheet in Canadian gas + LNG optionality) · `BTG` B2Gold (net cash, ~0.4x P/NAV — the one gold name still near its low) · `OC` Owens Corning (insulation, ~6x EV/EBITDA, GAAP-ugly on a non-cash impairment) · `TITN` Titan Machinery (sub-book ag-equipment dealer) · `TSI Holdings (3608.JP)` (net cash ~58% of cap, buyback+cancellation).
+
+**Event-driven / activist:** `RPD` Rapid7 (Jana Partners ~13%, pushing a sale) · `BOSS` Hugo Boss (live **Frasers €38 cash bid**) · `KER` Kering (Gucci turnaround under ex-Renault CEO + Demna) · `DIC (4631.JP)` (Oasis proposal) · `JACK` Jack in the Box (levered de-lever equity-stub).
+
+## Wave-3 "already arbitraged away" (honest negative results)
+
+Three whole desks came back with **little or nothing genuinely at a 52w low** — the move already happened:
+- **🥇 Gold & silver miners:** the complex **capitulated June 9 then V-bounced** (GDXJ +70% off its low). Every major (AEM, KGC, Barrick, AGI, IAG…) sits **+38% to +152% above its low**. Only `BTG`/`SBSW` remain near-ish. *Gold is not where the gems are right now.*
+- **💾 Non-AI semis:** ON +116%, VSH ~5x, STM/MCHP near highs — the cyclical recovery is **priced in**. `SWKS` is the lone clean laggard (idiosyncratic, not cyclical).
+- **🇯🇵 Japan below-book/activist:** the TSE-reform trade **already re-rated** through 2026; entry discipline now matters more than thesis.
+
+## Wave-3 AVOID added
+`FMC` (re-confirmed — 5–6x leverage, negative EBITDA, patent cliff) · `EG` Everest Group (casualty reserve charges) · `FAT` Fat Brands (Chapter 11) · `AUMN` Golden Minerals (distressed nano-cap).
+
+## Theme reinforcement
+- **"AI fear crushed quality, cash-generative franchises"** is now the *dominant* vein across the entire scan: software (TEAM, PUBM, PATH) **+ cybersecurity (ZS, S) + insurance brokers (BRO, WTW** via the OpenAI scare). This cluster of net-cash, FCF-positive, beaten-down-on-sentiment names is the highest-conviction group in the whole report.
+- **The screen runs slightly late on cyclical/momentum recoveries** — gold, non-AI semis, Japan-reform, and several first-pass names (TEAM, MOS) had already bounced off their lows by the time we looked. The cleanest *still-at-the-low* names: **ZS, BSX, CHWY, FOUR, BLMN, MBG, CIA, AVIR, MKC.**
+
+## Regional banks (12th desk)
+
+Same story as gold/semis/Japan — the sector **broadly re-rated**; almost nothing is genuinely at a 52w low (RF/KEY/ZION and most peers bounced 30–50% off their lows). Lone clean fit: **`INBK`** (First Internet Bancorp) — **0.56x tangible book**, the deepest discount of any *solvent* bank found, with ring-fenced SBA/franchise-finance credit that management guides to crest in 2H26 and a stable (non-eroding) TBV → **3.5/5** (caveat: thin ~9% CET1, low NIM). `BBT` (Beacon — post-merger CRE-office overhang) and `NWBI` (quality + ~5.7% yield, but already recovered) round out the cohort. So that's now **four** Wave-3 desks (gold, non-AI semis, Japan, regional banks) where the honest answer is "the move already happened."
+
+---
+
 ## ⚖️ Disclaimer
 
 This document is AI-generated research compiled by automated agents using public web sources, for **informational and educational purposes only**. It is **not investment advice**, not a recommendation to buy or sell any security, and not a solicitation. The agents flagged several **live-price conflicts and stale-data risks** (notably NRG and BSX), and micro-caps (STRT, NNDM) are thinly verified. Prices and metrics are approximate and may already be out of date. **Always independently verify current prices, the 52-week range, and the latest filings**, size positions for the trap-risk noted, do your own due diligence, and consider consulting a licensed financial advisor. Past performance and screening signals do not guarantee future results.
