@@ -226,7 +226,8 @@ Checking the classic *commodity* cyclicals one by one, a clear pattern emerged: 
 **The cyclical troughs that REMAIN open in June 2026 are not commodity-priced — they're *rate-gated* and *transition-disrupted*:**
 1. **Housing / building products** (rate-gated) → **BLDR** confirmed *TROUGH* (starts lowest since 2020); **MHK** (flooring) pending. *This is the cleanest open cyclical trough.*
 2. **Autos** (EV-transition + China) → **MBG**, **HMC** at margin troughs with fortress industrial net cash.
-3. Still to verify (rate/industrial-gated, likely still troughing): **trucking/freight** (4th-yr recession), **ag** (TITN), **machinery/short-cycle industrial**, **paper/packaging**.
+3. **Freight/trucking** → *confirmed OPEN trough, early-inflecting.* Capacity finally exiting after a 4-yr recession (carrier failures + FMCSA/DOT enforcement on low-cost operators); tender rejections + spot pricing rising; **Knight-Swift (KNX)** lifting contract bids to high-single/low-double-digit (from low-single a quarter ago). The upcycle catalyst (capacity destruction) is live *now* — cleaner than the bounced commodities. Dig: **KNX** (TL bellwether), Werner, Schneider, XPO/LTL.
+4. Still to verify (industrial/rate-gated): **ag** (beyond TITN), **machinery/short-cycle industrial**, **paper/packaging**, **auto parts**.
 
 *Takeaway: point the remaining cyclical hunt at rate-sensitive and transition-disrupted industries (housing, autos, freight, capital goods) — the commodity cyclicals already turned.*
 
