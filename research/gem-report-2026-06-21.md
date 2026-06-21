@@ -202,8 +202,11 @@ Same story as gold/semis/Japan — the sector **broadly re-rated**; almost nothi
 | **BLDR** | 3.5/5 | **TROUGH** | Housing starts lowest since 2020 (rate-gated, demand intact = cyclical *not* secular); huge latent operating leverage. **But** cheap only on *mid-cycle* EBITDA (≈10x on trough = above its median), and **net leverage 3.2x & rising w/ debt-funded buybacks** is the real risk. Lumber is *inflating* (tariffs), not deflating. |
 | **WTW** | 3.5/5 | P&C pricing just past **peak** | AI "insurance-app" scare targets *personal* lines WTW barely touches (it's commercial + advisory); fell hardest as the perceived-weakest big-3 broker = mispricing. Legit concern is **decelerating organic (3%) into a softening market**, not AI. |
 | **BRO** | ~~4/5~~ → **3/5** | P&C pricing softening | ⬇️ Revised down. The AI fear *is* overdone for BRO's commercial/specialty book — but the real problem is **idiosyncratic: flat 0% organic growth + $9.8B Accession integration risk.** Down ~43% in a year; multiple de-rated from ~24.5x to ~15x fwd and the **premium-to-peers fully *inverted*** (now below MMC/AON). All 2026 analyst actions negative-to-neutral; consensus Hold, ~$73 PT. Cheaper & more AI-defended than my first pass, but the organic stall mirrors WTW → 3/5, "verify organic inflects." |
-| TEAM·MKC·STRT·CHWY | (wave 2) | — | 3.5 / 3.5 / 4 / (done earlier) |
-| **ZS·MBG·MHK·CIA·AVIR·BLMN** | *pending* | — | Throttled out — re-queued for limit reset. |
+| **ZS** | 4/5 | trough (sentiment) | Net cash $1.66B, ~28% FCF, ~5x sales; Q3 FY26 **RPO +30%** says demand intact (not secular) — the FY27 16-17% guide looks sandbagged. |
+| **MBG** | 3.5/5 | trough (auto + EV-transition) | €45, near 52w low, ~9x P/E; **industrial net cash ~€33bn ≈ 75% of market cap.** Bear: dividend cut 2 yrs running (€5.30→€4.30→€3.50) + China structural. |
+| **AVIR** | 3/5 | n/a (binary) | Near-zero EV (~$25–60M) vs $256M cash, no debt/dilution, runway through both readouts, ~75–85% PoS Phase-3 HCV (mid-2026) — but the win is **commercially capped** by the commoditized Epclusa/Mavyret cure market. Bounded-downside event bet. |
+| TEAM·MKC·STRT·CHWY | (wave 2) | — | 3.5 / 3.5 / 4 / (done) |
+| **MHK·CIA·BLMN** | *pending* | — | Re-queued (fleet still throttling). |
 
 ## Cyclical-expansion early reads (the lens working as intended)
 
@@ -212,6 +215,20 @@ The cycle filter is doing its job — separating *true* troughs from look-alikes
 - 🎨 **SHW (Sherwin-Williams)** → **REJECT as deep value.** A *secular compounder at a full/premium valuation* (~22x EV/EBITDA ≈ its own median, **2–3x richer than peers**), not a trough — earnings are at records even with volumes down. Cheaper coatings exposure if wanted: **PPG (~11x EV/EBITDA)**, **Axalta (~7.6x, being acquired by AkzoNobel)**.
 - 🧪 **IFF (Intl Flavors & Fragrances)** → **special-situation, not a cyclical trough.** Consumer-staples ingredients; the destock already ended (Q1 +3% volume-led). It's a **deleveraging/simplification turnaround** — IG restored (Fitch BBB), leverage cut ~4x→2.5x, **$4.3B Food Ingredients sale to CVC** funds more paydown. ~12–14x (mid-cycle, discount to Givaudan/Symrise) but already +30% off lows. *Low-Mod trap; quality-at-a-discount.*
 - 🔬 **AVTR (Avantor)** → **deep-value price, but a CONTAMINATED trough → HIGH trap risk.** ~78% off high, ~1.1x book, ~9.8x EBITDA looks like a trough — but it's still guiding **negative organic + falling EPS in 2026**, with credible **structural share loss to Thermo Fisher** layered on the bioprocessing down-cycle, spec-grade leverage (3.3x, BB+), and a CFO departing mid-turnaround. "Prove-it," not a clean cyclical V.
+
+## 🌀 Cyclical sweep — the big meta-finding
+
+Checking the classic *commodity* cyclicals one by one, a clear pattern emerged: **most 2025 cyclical troughs have ALREADY inflected and bounced in early 2026** — the deep-value entry has passed:
+- **Lithium/battery materials** → *NOT a trough anymore.* Carbonate ~$26,278/t in Q1 2026 (**≈+100% off the 2024 bottom**), spodumene back >$2,000/t; Pilbara +466% off its low. Mid-cycle recovery, equities re-rated. **Skip.**
+- **Commodity chemicals** → *mostly bounced.* "Recovering from 2025's cyclical trough" — **LYB +73.7% YTD**, Dow turnaround, Celanese +35.8% YTD. Residual value in **LYB** (~$75 vs low-$100s high, ~7%+ yield) but the easy trough money is gone.
+- (Earlier: **gold/silver +35–250% off lows**, **non-AI semis +60–116%** — same story.)
+
+**The cyclical troughs that REMAIN open in June 2026 are not commodity-priced — they're *rate-gated* and *transition-disrupted*:**
+1. **Housing / building products** (rate-gated) → **BLDR** confirmed *TROUGH* (starts lowest since 2020); **MHK** (flooring) pending. *This is the cleanest open cyclical trough.*
+2. **Autos** (EV-transition + China) → **MBG**, **HMC** at margin troughs with fortress industrial net cash.
+3. Still to verify (rate/industrial-gated, likely still troughing): **trucking/freight** (4th-yr recession), **ag** (TITN), **machinery/short-cycle industrial**, **paper/packaging**.
+
+*Takeaway: point the remaining cyclical hunt at rate-sensitive and transition-disrupted industries (housing, autos, freight, capital goods) — the commodity cyclicals already turned.*
 
 ## ⛔ Status note
 Hit the platform **session/rate limit (resets ~12:40pm UTC)** mid-Wave-4. Completed: WBD/BLDR/WTW deep dives + a BRO synthesis (from sub-agents) + SHW/IFF/AVTR cyclical reads. **Queued for reset:** ZS, MBG, MHK, CIA, AVIR, BLMN deep dives + ~45 remaining cyclical-trough desks (trucking, autos parts, lithium, refiners, airlines, paper, machinery, rail, steel, aluminum, oil-services, midstream, coal, homebuilders, lodging, cruise, gaming, ad-agencies, asset-managers, capital-markets, networking, components, semicap, distribution, appliances, RV/leisure…).
