@@ -206,7 +206,8 @@ Same story as gold/semis/Japan — the sector **broadly re-rated**; almost nothi
 | **MBG** | 3.5/5 | trough (auto + EV-transition) | €45, near 52w low, ~9x P/E; **industrial net cash ~€33bn ≈ 75% of market cap.** Bear: dividend cut 2 yrs running (€5.30→€4.30→€3.50) + China structural. |
 | **AVIR** | 3/5 | n/a (binary) | Near-zero EV (~$25–60M) vs $256M cash, no debt/dilution, runway through both readouts, ~75–85% PoS Phase-3 HCV (mid-2026) — but the win is **commercially capped** by the commoditized Epclusa/Mavyret cure market. Bounded-downside event bet. |
 | TEAM·MKC·STRT·CHWY | (wave 2) | — | 3.5 / 3.5 / 4 / (done) |
-| **MHK·CIA·BLMN** | *pending* | — | Re-queued (fleet still throttling). |
+| **BLMN** | ~~4/5~~ → **3/5** | trough (casual dining) | Industry just off the bottom + high-quality Starboard/ex-Darden activist + 4.3x EV/EBITDA — but **Outback still losing traffic while peers recover** (secular wound on the cycle), already +50% off its low. Show-me, positive skew. |
+| **MHK·CIA** | *pending* | — | In flight (fleet recovered). |
 
 ## Cyclical-expansion early reads (the lens working as intended)
 
@@ -219,7 +220,7 @@ The cycle filter is doing its job — separating *true* troughs from look-alikes
 ## 🌀 Cyclical sweep — the big meta-finding
 
 Checking the classic *commodity* cyclicals one by one, a clear pattern emerged: **most 2025 cyclical troughs have ALREADY inflected and bounced in early 2026** — the deep-value entry has passed:
-- **Lithium/battery materials** → *NOT a trough anymore.* Carbonate ~$26,278/t in Q1 2026 (**≈+100% off the 2024 bottom**), spodumene back >$2,000/t; Pilbara +466% off its low. Mid-cycle recovery, equities re-rated. **Skip.**
+- **Lithium/battery materials** → *trough was Q3–Q4 2025; now early-recovery.* Carbonate ~$23–26k/t (**≈+100–125% off the 2024 bottom**), spodumene >$2,000/t; the obvious survivors (PLS/SQM/ALB) **re-rated 2–6x**. BUT value **migrated to laggards + adjacent metals**: **`SGML`** (Sigma — lowest-cost, ~55–65% off ATH, FCF-positive @ $511/t AISC → 4/5) and **`NIC.AX`** (Nickel Industries — **nickel = the freshest trough**: Indonesia slashing quotas, Weda Bay 42Mt→12Mt; low-cost, dividend-paying → **4/5, top pick**). `SYR.AX` graphite = deep-trough but survival-risk. *Lesson: at a maturing trough, hunt the low-cost laggards + the adjacent metal whose cycle turned latest.*
 - **Commodity chemicals** → *mostly bounced.* "Recovering from 2025's cyclical trough" — **LYB +73.7% YTD**, Dow turnaround, Celanese +35.8% YTD. Residual value in **LYB** (~$75 vs low-$100s high, ~7%+ yield) but the easy trough money is gone.
 - (Earlier: **gold/silver +35–250% off lows**, **non-AI semis +60–116%** — same story.)
 
