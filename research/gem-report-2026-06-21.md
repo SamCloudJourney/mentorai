@@ -207,7 +207,8 @@ Same story as gold/semis/Japan — the sector **broadly re-rated**; almost nothi
 | **AVIR** | 3/5 | n/a (binary) | Near-zero EV (~$25–60M) vs $256M cash, no debt/dilution, runway through both readouts, ~75–85% PoS Phase-3 HCV (mid-2026) — but the win is **commercially capped** by the commoditized Epclusa/Mavyret cure market. Bounded-downside event bet. |
 | TEAM·MKC·STRT·CHWY | (wave 2) | — | 3.5 / 3.5 / 4 / (done) |
 | **BLMN** | ~~4/5~~ → **3/5** | trough (casual dining) | Industry just off the bottom + high-quality Starboard/ex-Darden activist + 4.3x EV/EBITDA — but **Outback still losing traffic while peers recover** (secular wound on the cycle), already +50% off its low. Show-me, positive skew. |
-| **MHK·CIA** | *pending* | — | In flight (fleet recovered). |
+| **CIA** | ~~4/5~~ → **3/5** | price trough / China-steel secularly past peak | Genuine 52w low, low-cost (C1 ~US$60), DRPF growth flipping to FCF + Rana Gruber softens single-asset risk — BUT China steel is in **secular** decline (output <1Bt) and **Simandou** floods low-cost high-grade supply into CIA's premium niche; dividend cut 80%. A *grade-bet*, not a clean trough. |
+| **MHK** | *pending* | — | In flight. |
 
 ## Cyclical-expansion early reads (the lens working as intended)
 
@@ -228,7 +229,7 @@ Checking the classic *commodity* cyclicals one by one, a clear pattern emerged: 
 1. **Housing / building products** (rate-gated) → **BLDR** confirmed *TROUGH* (starts lowest since 2020); **MHK** (flooring) pending. *This is the cleanest open cyclical trough.*
 2. **Autos** (EV-transition + China) → **MBG**, **HMC** at margin troughs with fortress industrial net cash.
 3. **Freight/trucking** → *confirmed OPEN trough, early-inflecting.* Capacity finally exiting after a 4-yr recession (carrier failures + FMCSA/DOT enforcement on low-cost operators); tender rejections + spot pricing rising; **Knight-Swift (KNX)** lifting contract bids to high-single/low-double-digit (from low-single a quarter ago). The upcycle catalyst (capacity destruction) is live *now* — cleaner than the bounced commodities. Dig: **KNX** (TL bellwether), Werner, Schneider, XPO/LTL.
-4. Still to verify (industrial/rate-gated): **ag** (beyond TITN), **machinery/short-cycle industrial**, **paper/packaging**, **auto parts**.
+4. **Machinery/short-cycle industrial** → *already troughed Dec 2025, now early-mid recovery* (ISM PMI 47.9→54.0); most names re-rated (Cognex +68%). Value is in the **laggard = ag equipment** → **`AGCO`** (4/5 — bottoming into a 2027 ag upcycle, ~13x *normalized* EPS, fortress balance sheet; Deere & AGCO both call 2026 the bottom). Iron-ore (CIA) = *secular* China-steel decline, not a clean trough. Still verifying: **auto parts**, **paper/packaging**.
 
 *Takeaway: point the remaining cyclical hunt at rate-sensitive and transition-disrupted industries (housing, autos, freight, capital goods) — the commodity cyclicals already turned.*
 
