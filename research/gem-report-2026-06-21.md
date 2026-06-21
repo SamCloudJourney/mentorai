@@ -102,6 +102,46 @@ The fleet didn't just find cheap stocks — it *rejected* dozens that looked che
 
 ---
 
+---
+
+# 🔬 WAVE 2 — Deep-DD Revisions & New Discoveries (appended 2026-06-21)
+
+*The original Tier 1–3 master list above is preserved as-is. This section layers in the second pass: deep due-diligence teardowns that verified/corrected each gem, plus fresh sub-sector discoveries. **Headline finding: rigorous DD knocked most first-pass "4/5"s down to 3–3.5/5** — exactly what a second pass should do.*
+
+## Deep-DD revisions (conviction after verification)
+
+| Name | 1st pass | Post-DD | Key finding from deep DD |
+|------|:-------:|:------:|--------------------------|
+| **LULU** | 4/5 | **4/5** | Held up best: ~9x = a real decade-low, half its cheapest peer; **activists Elliott (~$1B) + founder Wilson** engaged; **new Nike CEO (Heidi O'Neill) starts Sept 8**. *Correction: my "$1.6B buyback" was wrong → ~$1B remaining authorization; China "+30%" was revenue, underlying comp ~+5%.* |
+| **MKC** | 4/5 | **3.5/5** | The scary "7.65 P/E" was a **GAAP artifact** (one-time Mexico remeasurement gain); real multiple **~15x vs ~26x norm**. More gem than trap, but deal-contingent (pro-forma 4.0x leverage). |
+| **PUBM** | 4/5 | **3.5/5** | Net cash **~27% of market cap**, ~1.4x EV/sales, ~8%/yr buyback — real. But the wound is structural (**The Trade Desk pulled SSP spend**); catalyst is *lapping* it in **Q3 2026**; CTV-mix claim overstated (~25–30%, not >40%). |
+| **TEAM** | 4/5 | **3.5/5** | Business genuinely re-accelerated (cloud +29%, ~$1.2B FCF), so "repriced on AI fear" holds — **but it's bounced +48% off its $56 low (no longer at the low)**, durable growth ~24–27%, SBC ~23% of revenue, net cash thinned. |
+| **MDT** | 4/5 | **3/5** | The MiniMed-spin "catalyst" **already happened** (IPO'd Mar 2026 — priced in). Cheaper than thought (~13x), but now a "show-me" on sustaining ~6–7% organic growth it's missed for a decade. |
+| **BSX** | 4/5 | **3/5** | **~$45 confirmed correct** (the $97 was stale); it *is* on its 52w low. But the cheapness partly reflects a *justified* growth-premium collapse (15.8%→6.5–8% organic), and bullish $92–95 targets look **stale/un-reset**. Needs a clean Q2. |
+| **FNF** | 4/5 | **3/5** | ⚠️ **Not actually at its 52w low** (+9% above); trailing P/E is optically **high** (~16.7x) — cheap only on *forward/normalized* earnings; needs a mortgage-rate thaw. |
+| **LDOS** | 4/5 | **3/5** | Cheapest on the board (**~8.8x at a fresh 52w low**, vs my 10.5x est) — but the bull framing cracked: **Q1 book-to-bill 0.8** (soft), backlog dipped sequentially ($49.0B→$48.4B), margin guide steps **down** (14.1%→~13.5%), June downgrades. **Now-confirmed real wound:** DHA is **stripping Leidos of its military-EHR (MHS GENESIS) lead-integrator role** (vendors transition off Jul 2026–Jul 2027). Nuance: defense spend is at a *record*; it's LDOS's **civilian** book (FAA/VA/NIH/SSA) facing austerity. Offsets: beat-and-raise, +31% funded backlog. |
+| **MOS** | 4/5 | **3/5** | Bounced **~16% off its low** as the **June 17 US–Iran ceasefire + Hormuz reopening** unwinds the sulfur shock — catalyst already partly priced. Still cheap (~5x EV/EBITDA, 0.62x book) but FY2026 is a GAAP-loss year. |
+| **HMC** | 4/5 | **2.5/5** | ⚠️ Thesis half-refuted: the **"~18% shareholder yield" is stale** — it reflected the *completed* ¥1.1T buyback; **NO new buyback** was announced (forward returns stepped down to ~¥800B/3yr, dividend-led ~3.9%). Still deep value (**~0.4x book**, ¥3.3T net cash, ¥1.58T FCF confirms the loss was non-cash) — but the capital-return re-rate engine is idling and mgmt guides **up to ¥2.5T of *further* EV losses**. Trap risk Med-High. |
+| **NNDM** | 4/5 | **2.5/5** | ⚠️ Thesis broke **June 15**: the board chose to **redeploy** the cash into a reverse merger (Infinite Epigenetics) rather than return it; activist Murchinson is fighting to force a cash return (**EGM July 26**). Still ~58–66% of net cash, but now a **contested binary proxy war**, not a clean cash-return trade. |
+
+## Wave-2 new discoveries (fresh names, no overlap with master list)
+
+**💳 Payments & Fintech** — `FOUR` Shift4 (on 52w low, ~7.7x, Global Blue + ~28% short squeeze) **4/5** · `GPN` Global Payments (~4.9x *adj*, $2.5B buyback, ~$3B FCF) **4/5** · `PYPL` PayPal (~7.8x, ~15% FCF yield, **Michael Burry initiated**) **3.5/5** · `FIS` (~6x, 4.5% yield) **3/5** · `MQ` Marqeta (net cash ~60% of cap, GAAP-profit inflection) **3/5**
+
+**🚢 Shipping** — `SBLK` Star Bulk (~0.86x NAV, fortress balance sheet, ~100%-FCF dividend) **4/5** · `GSL` Global Ship Lease (contracted-charter, ~6.3% covered yield, NAV discount) **3.5/5** · `ZIM` (~45% spread to signed **$35 Hapag-Lloyd cash bid**, but Israel "golden-share" break risk) **3/5 arb**. *NB: the Hormuz war lifted most of shipping to multi-year highs — little is actually at a low.*
+
+**🇨🇳 China / Hong Kong (non-ADR; HK/Stock-Connect access)** — `1093.HK` CSPC Pharma (near low, **AstraZeneca obesity deal up to $18.5bn**, dividend hiked + buybacks, net cash) **4/5** · `0914.HK` Anhui Conch Cement (near low, fortress net cash, profit +5% in 2025) **3.5/5** · `0083.HK` Sino Land (~half market cap in net cash, 51% NAV discount, ~5.4% yield) **3.5/5** · `000858.SZ` Wuliangye (net cash ~28% of cap, state buyback, ~6.8% fwd yield) **3/5**
+
+## Wave-2 macro & meta-insights
+
+1. **The Strait of Hormuz war → June 17 ceasefire is the dominant 2026 force.** It whipsawed energy, materials (MOS +16% off the low), defense (the LDOS selloff is partly the de-escalation reversal), and shipping (whole complex at highs). **Watch for a ceasefire relapse** — it re-rates these fast in either direction.
+2. **SCOTUS struck down the IEEPA "reciprocal" tariffs (Feb 20, 2026, 6-3)** — a **latent tailwind + refund optionality** for tariff-pressured names (LULU, MKC, HRL, HMC) that **most managements have NOT baked into guidance**.
+3. **Many first-pass gems already bounced off their lows** (TEAM +48%, MOS +16%, FNF +9% above its low) — the screen caught them mid-recovery. The **cleanest names still genuinely AT their lows: `BSX`, `CHWY`, `FOUR`, `MKC`, `1093.HK` (CSPC).**
+
+**Wave-2 AVOID added:** `0017.HK` New World Development — distressed HK developer, net-debt >100% of assets, sought covenant waivers. Textbook falling knife.
+
+---
+
 ## ⚖️ Disclaimer
 
 This document is AI-generated research compiled by automated agents using public web sources, for **informational and educational purposes only**. It is **not investment advice**, not a recommendation to buy or sell any security, and not a solicitation. The agents flagged several **live-price conflicts and stale-data risks** (notably NRG and BSX), and micro-caps (STRT, NNDM) are thinly verified. Prices and metrics are approximate and may already be out of date. **Always independently verify current prices, the 52-week range, and the latest filings**, size positions for the trap-risk noted, do your own due diligence, and consider consulting a licensed financial advisor. Past performance and screening signals do not guarantee future results.
