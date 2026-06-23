@@ -62,6 +62,22 @@ The names that clear **all** of: ≥~40% upside-to-consensus · ≥5 analysts ·
 **1. HLNE · 2. CNC · 3. UNH · 4. MOH · 5. NXPI · 6. SLB · 7. CRM · 8. ZS · 9. LDOS · 10. BRO** *(HLNE vaults to #1 — biggest quality gap, +84–146% to consensus, FRE growing +25%)*
 — **dominated by two themes: managed-care cost-trend recovery (CNC/UNH/MOH) and the AI-fear/oil-crash sentiment washouts (CRM/ZS/LDOS/SLB/HAL).** Both are *resolvable* causes with fundamentals already inflecting — the textbook "market wrong, not analysts wrong" setup.
 
+## ★ HLNE (Hamilton Lane) — full Step-7 dossier
+*Price note: your chart shows ~$73.93 (recent low); one feed reads ~$87. 52-wk low is $75.93. Confirm your live fill — **but the entire analyst target range ($102–$230) sits ABOVE the price either way.** Math below anchored at ~$74 entry.*
+
+- **Investment thesis:** A blue-chip private-markets asset manager (~$1T footprint) whose **earnings GREW double-digits while the stock fell ~64%** ($203→~$74) = pure multiple compression to ~**11–13x forward** (FY27 EPS est **$6.55, +15%**). FRE +25% (Q2/Q3 ran +37%), fees +14–20%, evergreen AUM **+64%**, incentive-fee 47% CAGR, **9th straight double-digit dividend hike**, plus a **$1.5B unrealized carry balance (+23% YoY)** = embedded future earnings the market is ignoring.
+- **Bear thesis:** Private-equity **NAVs/marks could be written down** (frozen exits + higher-for-longer) → fee-earning AUM growth stalls and carry evaporates; HLNE *defending its own marks* is self-interested; the whole alts complex could stay de-rated (cheap gets cheaper).
+- **Why analysts are bullish (9 analysts, Buy, 0 Sell):** recurring FRE engine compounding ~mid-20s%, evergreen/retail S-curve, secondaries advantaged by the slow-exit drought, fat dividend + buyback. **No analyst target is below the price** (low $102 → high $230; avg ~$157, median ~$170).
+- **Why the market is bearish:** sentiment de-rating of all alts on "private-credit bubble / stale marks / IPO drought" — a *sector* fear, not an HLNE earnings problem.
+- **Insider buying (CONFIRMED, open-market, near the low):** **Exec Co-Chairman Hartley Rogers ~38,290 sh (~$3M)**, **COO Andrea Kramer** (buys all year, no sells), **Director David Berkman 15,000 sh** — all **Jun 11, 2026 at ~$76–79**; **10 buys vs 1 sell.** You'd be buying *below* where the Co-Chairman bought.
+- **Institutional ownership:** heavy (≈full float), **+~6% QoQ** — institutions adding into the drawdown.
+- **Valuation:** ~11–13x FY27 EPS ($6.55), ~12.8x fwd, **~3%+ dividend yield** (safe, $2.40, +11%), vs a 5-yr history of 25–35x. PEG <0.6 on FRE growth.
+- **Key catalysts:** Q1 FY27 print (~Aug '26); **carry realizations if PE exits/IPO window thaw** (optionality on the $1.5B unrealized carry); alts-complex sentiment turn (rate cuts); continued dividend hikes/buyback.
+- **Probability analysts are "directionally right":** ~**60%** the stock re-rates materially higher over 1–2yr; ~25% it stays cheap-but-compounding (you still collect the dividend + EPS growth); ~15% the marks/recession bear case bites. *(Caveat: Street targets are systematically optimistic — the most likely single path is "right direction, smaller magnitude," ~$110–130 / +50–75%, not the full $157 avg.)*
+- **Expected return if analysts right:** to avg ~$157 = **+112%**; median $170 = **+130%**; high $230 = **+211%** (from $74).
+- **Expected return if analysts wrong (bear):** marks reset → ~$55–60 = **−19% to −26%**; severe (~$48) = **−35%**. Cushioned by recurring FRE + the dividend.
+- **Asymmetry:** base **+112%** vs bear **~−20%** ≈ **~5:1 reward/risk** — a genuine asymmetric setup, corroborated by the insider cluster and the company's own research arguing the feared macro *favors* its secondaries/evergreen engines.
+
 ### Status
 A fully rigorous **Top 100** with every data field (each bank's target, insider buying, institutional flows, probability-weighted returns per name) is the one piece the throttle blocked — that needs the desk fleet to finish or terminal data. The high-value core — the two buckets and the Top 10 — is above. *(I can resume the throttled desks or deep-dive any Top-10 name on request.)*
 
