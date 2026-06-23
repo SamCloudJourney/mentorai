@@ -33,6 +33,7 @@ DQS = log-scaled(consensus upside %)          # the gap, but capped so absurd ga
 ### 🟩 The "MARKET likely wrong" board — genuine high-quality disconnects (ranked by Disconnect Quality, not raw upside)
 | # | Ticker | Company | ~Price | Avg target (upside) | High tgt | #An | Rating | Cause | Why it qualifies |
 |--:|--------|---------|-------:|--------------------:|---------:|:---:|--------|-------|------------------|
+| ★ | **HLNE** | Hamilton Lane | ~$74 | **~$136–182 (+84% to +146%)** | $230 | 7–13 | Buy | sentiment (private-marks transparency) — *not* structural | FRE **+25%**, fees +14–20%, evergreen AUM +64%, **9th straight double-digit dividend hike**, ~13x P/E — **earnings GREW while the stock halved = pure multiple compression.** Largest clean disconnect on the board. |
 | 1 | **CNC** | Centene | ~$36 | **$55 (+51%)** | $68 | 17 | Mod Buy | temp earnings (Medicaid cost-trend) | Q1 EPS **beat 58%**, FY guide +13%, margins *stabilising* — recovery already visible |
 | 2 | **UNH** | UnitedHealth | ~$259 | **$361 (+39%)** | $450 | 49 | Strong Buy | regulatory / cost-trend | **BofA upgrade to $450** on improving cost trends; FY26 EPS >$18.25, $2B buyback; quality franchise |
 | 3 | **MOH** | Molina | ~$170 | **~+40%** | — | ≥10 | Buy | temp earnings (Medicaid) | EPS poised to ~double by 2029; cleanest pure-Medicaid recovery |
@@ -58,7 +59,7 @@ DQS = log-scaled(consensus upside %)          # the gap, but capped so absurd ga
 
 ### 🥇 Top 10 highest-conviction (the elite list)
 The names that clear **all** of: ≥~40% upside-to-consensus · ≥5 analysts · acceptable business quality · survivable balance sheet · intact revenue · *resolvable* cause:
-**1. CNC · 2. UNH · 3. MOH · 4. NXPI · 5. SLB · 6. CRM · 7. ZS · 8. LDOS · 9. HAL · 10. BRO**
+**1. HLNE · 2. CNC · 3. UNH · 4. MOH · 5. NXPI · 6. SLB · 7. CRM · 8. ZS · 9. LDOS · 10. BRO** *(HLNE vaults to #1 — biggest quality gap, +84–146% to consensus, FRE growing +25%)*
 — **dominated by two themes: managed-care cost-trend recovery (CNC/UNH/MOH) and the AI-fear/oil-crash sentiment washouts (CRM/ZS/LDOS/SLB/HAL).** Both are *resolvable* causes with fundamentals already inflecting — the textbook "market wrong, not analysts wrong" setup.
 
 ### Status
