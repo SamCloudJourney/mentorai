@@ -9,6 +9,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <li><Link href="/dashboard">Dashboard</Link></li>
             <li><Link href="/learn">Learn</Link></li>
             <li><Link href="/review">Review</Link></li>
+            <li><Link href="/sourcing">Sourcing</Link></li>
             <li><Link href="/settings">Settings</Link></li>
           </ul>
         </nav>
